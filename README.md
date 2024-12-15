@@ -1,4 +1,2 @@
 # DS210_project
-
-
-\\Brief description of code
+\\ This project looks into Dubai's rental property market to uncover key trends and insights. I used graph theory to find the most connected neighborhoods based on their locations, and regression analysis to see how property size affects rent. I also built a simple predictive model to estimate demand, giving a better understanding of pricing patterns and major rental hubs in the city.
